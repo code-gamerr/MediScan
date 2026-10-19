@@ -12,7 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^2.11.2",
+    "@reduxjs/toolkit": "^2.13.0",
     "@supabase/supabase-js": "^2.106.2",
     "axios": "^1.15.2",
     "framer-motion": "^12.38.0",
