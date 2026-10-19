@@ -21,7 +21,7 @@
     "react-dom": "^19.2.5",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.14.2",
-    "recharts": "^3.8.1",
+    "recharts": "^3.10.1",
     "workbox-window": "^7.4.1"
   },
   "devDependencies": {
